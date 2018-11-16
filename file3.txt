@@ -1,2 +1,2 @@
 content of file3
-local change
+local and remote change
