@@ -1,1 +1,2 @@
 content of file3
+local change
